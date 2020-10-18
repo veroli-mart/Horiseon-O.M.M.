@@ -6,7 +6,7 @@ Horiseon helps companies to Optimize their visibility to people , Manage what pe
 
 When you first open your website, this is what you should see:
 
-![...](../Horiseon-O.M.M./Develop/Horiseon-Loading-Page.png)
+![...](/Develop/Horiseon Loading Page.png)
 
 To download the most up-to-date code of the website, open your command line and enter-
     "git clone https://github.com/veroli-mart/Horiseon-O.M.M..git"
